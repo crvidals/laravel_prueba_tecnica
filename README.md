@@ -40,7 +40,7 @@ Laravel 12 application with a **Player Notes** module that allows authorized sup
 
 ```bash
 # 1. Clone the repository
-git clone <repository-url> laravel_prueba_tecnica
+git clone https://github.com/crvidals/laravel_prueba_tecnica.git
 cd laravel_prueba_tecnica
 
 # 2. Copy environment file
@@ -65,7 +65,7 @@ The application will be available at `http://localhost`.
 
 ```bash
 # 1. Clone the repository
-git clone <repository-url> laravel_prueba_tecnica
+git clone https://github.com/crvidals/laravel_prueba_tecnica.git
 cd laravel_prueba_tecnica
 
 # 2. Copy environment file
